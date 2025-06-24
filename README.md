@@ -41,6 +41,7 @@ The sample includes three specialized agents:
 
 ### 2. Open Repo in a GitHub Codespace
 1. Open this repository in a GitHub Codespace by clicking the button below:
+
    [![Open in GitHub Codespaces](https://img.shields.io/static/v1?style=for-the-badge&label=GitHub+Codespaces&message=Open&color=brightgreen&logo=github)](https://github.com/codespaces/new?hide_repo_select=true&machine=basicLinux32gb&repo=1007663217&ref=main&devcontainer_path=.devcontainer%2Fdevcontainer.json&geo=UsEast)
 2. Wait for the Codespace to initialize. This may take a few minutes as it sets up the environment.
 
