@@ -70,11 +70,12 @@ The sample includes three specialized agents:
 
 
 ### 4. **Authenticate with Azure CLI**
-    Open a terminal in your Codespace and run:
+Open a terminal in your Codespace and run:
+
    ```bash
    az login
    ```
-    Follow the prompts to authenticate with your Azure account.
+Follow the prompts to authenticate with your Azure account.
 
 ### 5. Run the Sample
 
